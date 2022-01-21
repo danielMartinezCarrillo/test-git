@@ -1,5 +1,5 @@
-import numpy as np 
+import sys as np 
 
- np.random.seed(123)
+np.random.seed(123)
 
- #Danielmtz
+ 
